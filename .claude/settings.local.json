@@ -4,7 +4,8 @@
       "WebFetch(domain:colab.research.google.com)",
       "Bash(pip install:*)",
       "Bash(python3 -m pip install:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(python3:*)"
     ],
     "deny": []
   }
